@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HraveMzdy.Legalios</id>
+    <version>0.0.12</version>
+    <title>Legal Monthly Attributes 2011-2022</title>
+    <authors>Ladislav Lisy</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>http://hravemzdy.org/legalios</projectUrl>
+    <description>Salary, Health, Social, Taxing Properties for years 2011-2022</description>
+    <copyright>Copyright 2022</copyright>
+    <tags>payroll, legal, wages, social, health, tax, income, insurance</tags>
+    <repository type="github" url="https://github.com/mzdyhrave/payrolcs.git" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="ResultMonad" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\PROJ_HMGit\payrollcs\proj\legalios\bin\Release\net5.0\HraveMzdy.Legalios.dll" target="lib\net5.0\HraveMzdy.Legalios.dll" />
+    <file src="C:\PROJ_HMGit\payrollcs\LICENSE" target="LICENSE" />
+  </files>
+</package>

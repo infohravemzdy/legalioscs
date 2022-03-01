@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MaybeMonad/1.0.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MaybeMonad.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MaybeMonad.dll": {}
+        }
+      },
+      "ResultMonad/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MaybeMonad": "1.0.1.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/ResultMonad.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ResultMonad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaybeMonad/1.0.1.1": {
+      "sha512": "7N+UAyHPlcFd8Xw8ZwCot5GylynDcuVaDNvd258hc99lPjFMFJ2SZhyE7xNrLgKSmSYGX5gtvFCpLW/MrnqV7Q==",
+      "type": "package",
+      "path": "maybemonad/1.0.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MaybeMonad.dll",
+        "maybemonad.1.0.1.1.nupkg.sha512",
+        "maybemonad.nuspec"
+      ]
+    },
+    "ResultMonad/1.0.1": {
+      "sha512": "FUPXv68V56E9bd/isJpmaYSh6n8QMuiMoL9T2JqZ4cfzmVd3zQ0lxhCiNR6zY/zxo+ZzKOwN7vnxK/r3z1BKxQ==",
+      "type": "package",
+      "path": "resultmonad/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/ResultMonad.dll",
+        "resultmonad.1.0.1.nupkg.sha512",
+        "resultmonad.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ResultMonad >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ladis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "0.22.2",
+    "restore": {
+      "projectUniqueName": "C:\\PROJ_HMGit\\payrollcs\\proj_legalios\\legalios\\Legalios.csproj",
+      "projectName": "HraveMzdy.Legalios",
+      "projectPath": "C:\\PROJ_HMGit\\payrollcs\\proj_legalios\\legalios\\Legalios.csproj",
+      "packagesPath": "C:\\Users\\ladis\\.nuget\\packages\\",
+      "outputPath": "C:\\PROJ_HMGit\\payrollcs\\proj_legalios\\legalios\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ladis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "ResultMonad": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

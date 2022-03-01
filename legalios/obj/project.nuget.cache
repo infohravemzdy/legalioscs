@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCY5V4cvyn7dx6/xWXlD264cnDuEhKKTSdBkvvsKveqJy0GCnZ+tv4rJsVhzxWeXycGQTRIZ7rjcZiITB7P8mw==",
+  "success": true,
+  "projectFilePath": "C:\\PROJ_HMGit\\payrollcs\\proj_legalios\\legalios\\Legalios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ladis\\.nuget\\packages\\maybemonad\\1.0.1.1\\maybemonad.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\ladis\\.nuget\\packages\\resultmonad\\1.0.1\\resultmonad.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
