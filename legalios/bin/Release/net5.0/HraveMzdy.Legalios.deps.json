@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "HraveMzdy.Legalios/0.22.3": {
+      "HraveMzdy.Legalios/0.22.4": {
         "dependencies": {
           "ResultMonad": "1.0.1"
         },
@@ -36,7 +36,7 @@
     }
   },
   "libraries": {
-    "HraveMzdy.Legalios/0.22.3": {
+    "HraveMzdy.Legalios/0.22.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

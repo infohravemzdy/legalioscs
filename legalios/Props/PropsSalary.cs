@@ -163,7 +163,7 @@ namespace HraveMzdy.Legalios.Props
         {
             decimal paymentValue = DecPaymentWithTariffAndUnits(tariffPerUnit, workingsUnits);
 
-            return OperationsRound.DecRoundUp(paymentValue);
+            return OperationsRound.DecRoundDown(paymentValue);
         }
         public decimal TariffWithPaymentAndUnits(decimal amountPerUnit, decimal workingsUnits)
         {
