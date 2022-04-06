@@ -33,3 +33,15 @@ C:\PROJ_HMGit\payrollcs\proj\legalios\obj\Release\net5.0\Legalios.csproj.CoreCom
 C:\PROJ_HMGit\payrollcs\proj\legalios\obj\Release\net5.0\HraveMzdy.Legalios.dll
 C:\PROJ_HMGit\payrollcs\proj\legalios\obj\Release\net5.0\ref\HraveMzdy.Legalios.dll
 C:\PROJ_HMGit\payrollcs\proj\legalios\obj\Release\net5.0\HraveMzdy.Legalios.pdb
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\bin\Release\net5.0\HraveMzdy.Legalios.deps.json
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\bin\Release\net5.0\HraveMzdy.Legalios.dll
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\bin\Release\net5.0\ref\HraveMzdy.Legalios.dll
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\bin\Release\net5.0\HraveMzdy.Legalios.pdb
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\Legalios.csproj.AssemblyReference.cache
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\Legalios.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\Legalios.AssemblyInfoInputs.cache
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\Legalios.AssemblyInfo.cs
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\Legalios.csproj.CoreCompileInputs.cache
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\HraveMzdy.Legalios.dll
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\ref\HraveMzdy.Legalios.dll
+C:\PROJ_HMGit\payrollcs\proj_legalios\legalios\obj\Release\net5.0\HraveMzdy.Legalios.pdb

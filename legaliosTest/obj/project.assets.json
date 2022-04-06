@@ -1933,7 +1933,7 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "HraveMzdy.Legalios/0.22.2": {
+      "HraveMzdy.Legalios/0.22.3": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -6532,7 +6532,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "HraveMzdy.Legalios/0.22.2": {
+    "HraveMzdy.Legalios/0.22.3": {
       "type": "project",
       "path": "../legalios/Legalios.csproj",
       "msbuildProject": "../legalios/Legalios.csproj"
@@ -6542,7 +6542,7 @@
     "net5.0": [
       "AutoFixture >= 4.15.0",
       "FluentAssertions >= 5.10.3",
-      "HraveMzdy.Legalios >= 0.22.2",
+      "HraveMzdy.Legalios >= 0.22.3",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "NLog >= 4.7.10",
       "NSubstitute >= 4.2.2",

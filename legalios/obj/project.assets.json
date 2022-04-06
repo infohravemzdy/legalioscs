@@ -62,7 +62,7 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "0.22.2",
+    "version": "0.22.3",
     "restore": {
       "projectUniqueName": "C:\\PROJ_HMGit\\payrollcs\\proj_legalios\\legalios\\Legalios.csproj",
       "projectName": "HraveMzdy.Legalios",

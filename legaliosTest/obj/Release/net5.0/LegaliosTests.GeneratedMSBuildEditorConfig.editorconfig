@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LegaliosTests
-build_property.ProjectDir = C:\PROJ_HMGit\payrollcs\test\legalios\
+build_property.ProjectDir = C:\PROJ_HMGit\payrollcs\proj_legalios\legaliosTest\
